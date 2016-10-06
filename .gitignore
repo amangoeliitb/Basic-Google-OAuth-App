@@ -1,0 +1,5 @@
+*.pyc
+db.sqlite3
+userprofile/media/*
+.idea
+login/settings_local.py
